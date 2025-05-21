@@ -2,7 +2,6 @@
 provider "google" {
   project     = "class6-5testproject"
   region      = "us-east1"
-  credentials = "class6-5testproject-9dbbe08ae240.json"
 }
 
 /*This is the provider block for google cloud
